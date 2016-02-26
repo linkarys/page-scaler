@@ -1,0 +1,11 @@
+{
+  "name": "page-scaler",
+  "version": "1.0.0",
+  "description": "scale the whole page just like an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linkarys <linkarys@gmail.com> (http://linkarys.github.io)",
+  "license": "ISC"
+}
